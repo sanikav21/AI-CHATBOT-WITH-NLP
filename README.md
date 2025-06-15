@@ -31,3 +31,4 @@ This chatbot is a beginner-friendly example of how natural language understandin
 
 
 OUTPUT OF CODE:
+![Image](https://github.com/user-attachments/assets/e2679538-29bc-49c0-95d5-09b600d42e97)
